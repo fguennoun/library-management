@@ -1,3 +1,0 @@
-Learning Angular 8 | 1234567890-65-23 | Some Author 1
-Learning Spring Boot | 00866543-98-27 | Some Author 2
-The Lord ofThe Rings | 10764444-09-54 | Some Author 3
