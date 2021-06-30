@@ -22,8 +22,6 @@ public class BookFamily {
     private String label;
 
     @ManyToOne
-    // @JsonIgnore
-    // @JsonIgnoreProperties(value = "library", allowSetters = true)
     @JsonBackReference
     private Library library;
 

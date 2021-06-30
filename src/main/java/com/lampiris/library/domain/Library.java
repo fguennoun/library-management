@@ -21,8 +21,6 @@ public class Library {
     @Column(nullable = false)
     private String label;
 
-
-    // @JsonManagedReference
     @OneToMany(mappedBy = "library")
     @JsonIgnore
     private Set<BookFamily> bookFamilies = new HashSet<>();
